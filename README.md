@@ -48,6 +48,7 @@ Send a pull request or just open an issue to send more useful links! After it, I
 * [Building a Comples User Flow in Vulcan Part 5: Complete Payment](https://www.youtube.com/watch?v=jdDPFZTRt0s)
 * [Building an AirBnB clone with Vulcanjs](https://www.youtube.com/watch?v=Nl0Fi40Ghh4&list=PLBoa_Q6hVeSx1oP5sFYG63rPs1eDtyNOy)
 * [Improving GraphQL Performance with Dataloader](https://www.youtube.com/watch?v=M8Jmz8q2sUk)
+* [Vulcan.js with Michel Herzak](https://www.youtube.com/watch?v=svNZztupP-k)
 
 ### Blogs
 
@@ -58,3 +59,4 @@ Send a pull request or just open an issue to send more useful links! After it, I
 * [VulcanJS 1.6: Admin Dashboard, Dynamic Imports & Bettle Field Resolvers](https://blog.vulcanjs.org/vulcanjs-1-6-admin-dashboard-dynamic-imports-better-field-resolvers-73121869183d?source=collection_home---6------3----------------)
 * [VulcanJS 1.7: Cards and Datatables](https://blog.vulcanjs.org/vulcanjs-1-7-cards-datatables-and-more-79371b504a13?source=collection_home---6------2----------------)
 * [VulcanJS 1.8: A better Architecture](https://blog.vulcanjs.org/vulcanjs-1-8-a-better-architecture-2eef7375e6f1?source=collection_home---6------1----------------)
+* [What’s New in VulcanJS v1.8.3](https://blog.vulcanjs.org/whats-new-in-vulcanjs-v1-8-3-bea45752d606)
