@@ -53,6 +53,7 @@ Send a pull request or just open an issue to send more useful links! After it, I
 ### Blogs
 
 * [Five Ways Vulcan makes Apollo Even Better](https://blog.vulcanjs.org/five-ways-vulcan-makes-apollo-even-better-c4625dd2288?source=collection_home---6------9----------------)
+* [VulcanJS: An Open-Source Project to "Meteorize" GraphQL](https://blog.meteor.com/vulcanjs-an-open-source-project-to-meteorize-graphql-ba48925bc41f)
 * [Vulcan Case Study: GambaClimbing.com](https://blog.vulcanjs.org/vulcan-case-study-gambaclimbing-com-a0ec2af8322e?source=collection_home---6------6----------------)
 * [Vulcan 1.4: Sendy, EmbedAPI, Dataloader](https://blog.vulcanjs.org/vulcan-1-4-sendy-embedapi-dataloader-and-more-391560f29874?source=collection_home---6------5----------------)
 * [Vulcan 1.5: 50% smaller bundle Size and Payments with Stripe](https://blog.vulcanjs.org/vulcan-1-5-50-smaller-bundle-size-and-vulcan-payments-with-stripe-786e300a887c?source=collection_home---6------4----------------)
