@@ -60,5 +60,6 @@ Send a pull request or just open an issue to send more useful links! After it, I
 * [VulcanJS 1.6: Admin Dashboard, Dynamic Imports & Bettle Field Resolvers](https://blog.vulcanjs.org/vulcanjs-1-6-admin-dashboard-dynamic-imports-better-field-resolvers-73121869183d?source=collection_home---6------3----------------)
 * [VulcanJS 1.7: Cards and Datatables](https://blog.vulcanjs.org/vulcanjs-1-7-cards-datatables-and-more-79371b504a13?source=collection_home---6------2----------------)
 * [VulcanJS 1.8: A better Architecture](https://blog.vulcanjs.org/vulcanjs-1-8-a-better-architecture-2eef7375e6f1?source=collection_home---6------1----------------)
+* [How to migrate Vulcan votes to version 1.8](https://blog.vulcanjs.org/how-to-migrate-vulcan-votes-to-version-1-8-7d8d31a4ccb6)
 * [What’s New in VulcanJS v1.8.3](https://blog.vulcanjs.org/whats-new-in-vulcanjs-v1-8-3-bea45752d606)
 * [VulcanJS v1.8.4 to v1.8.9](https://blog.vulcanjs.org/vulcanjs-v1-8-4-to-1-8-9-9ea4d376d929)
