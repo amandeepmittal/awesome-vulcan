@@ -49,6 +49,7 @@ Send a pull request or just open an issue to send more useful links! After it, I
 * [Building an AirBnB clone with Vulcanjs](https://www.youtube.com/watch?v=Nl0Fi40Ghh4&list=PLBoa_Q6hVeSx1oP5sFYG63rPs1eDtyNOy)
 * [Improving GraphQL Performance with Dataloader](https://www.youtube.com/watch?v=M8Jmz8q2sUk)
 * [Vulcan.js with Michel Herzak](https://www.youtube.com/watch?v=svNZztupP-k)
+* [Understanding Vulcan Forms](https://www.youtube.com/watch?v=v3ftplSZWrs)
 
 ### Blogs
 
