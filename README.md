@@ -66,3 +66,4 @@ Send a pull request or just open an issue to send more useful links! After it, I
 * [VulcanJS v1.8.4 to v1.8.9](https://blog.vulcanjs.org/vulcanjs-v1-8-4-to-1-8-9-9ea4d376d929)
 * [The Vulcanjs Challenge: 15 Days for an App](https://medium.com/@eric.burel/the-vulcan-js-challenge-15-days-for-an-app-e3735d1e3d4c)
 * [Vulcan.js 1.9: Nested Forms Support, Better Image Upload, and more](https://blog.vulcanjs.org/vulcan-js-1-9-nested-forms-support-better-image-upload-and-more-8da2076bb43f)
+* [Vulcan.js 1.10: Towards a More Flexible UI Layer](https://medium.com/@sachagreif/vulcan-js-1-10-towards-a-more-flexible-ui-layer-918f90876ef9)
