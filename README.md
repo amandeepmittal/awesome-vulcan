@@ -50,6 +50,7 @@ Send a pull request or just open an issue to send more useful links! After it, I
 * [Improving GraphQL Performance with Dataloader](https://www.youtube.com/watch?v=M8Jmz8q2sUk)
 * [Vulcan.js with Michel Herzak](https://www.youtube.com/watch?v=svNZztupP-k)
 * [Understanding Vulcan Forms](https://www.youtube.com/watch?v=v3ftplSZWrs)
+* [Internationalization and MutliLanguage Apps with Vulcanjs](https://www.youtube.com/watch?v=yO4MAdmiiCc)
 
 ### Blogs
 
