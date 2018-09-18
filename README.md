@@ -72,3 +72,4 @@ Send a pull request or just open an issue to send more useful links! After it, I
 - [Vulcan.js 1.10: Towards a More Flexible UI Layer](https://medium.com/@sachagreif/vulcan-js-1-10-towards-a-more-flexible-ui-layer-918f90876ef9)
 - [Vulcan.js 1.11: Internationalization & Multi-Language Support](https://blog.vulcanjs.org/vulcan-js-1-11-internationalization-multi-language-support-7872aa3e8cc6)
 - [Vulcan.js 1.12: A Better GraphQL API for CRUD Operations](https://medium.com/@sachagreif/vulcan-js-1-12-a-better-graphql-api-for-crud-operations-fae82e03a7e9)
+- [Write less code, ship more apps: How Vulcan.js makes me an efficient developer](https://medium.com/dailyjs/write-less-code-ship-more-apps-how-vulcan-js-makes-me-an-efficient-developer-71c829c76417)
