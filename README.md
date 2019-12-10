@@ -75,3 +75,4 @@ Send a pull request or just open an issue to send more useful links! After it, I
 - [Write less code, ship more apps: How Vulcan.js makes me an efficient developer](https://medium.com/dailyjs/write-less-code-ship-more-apps-how-vulcan-js-makes-me-an-efficient-developer-71c829c76417)
 - [How I built an app with Vulcan.js in four days](https://medium.freecodecamp.org/how-i-built-an-app-with-vulcan-js-in-four-days-6368814077b1)
 - [Vulcan.js 1.13: Introducing Apollo Client/Server 2 & React Router 4](https://blog.vulcanjs.org/vulcan-js-1-13-introducing-apollo-client-server-2-react-router-4-44528086faae)
+- [Vulcan.js 1.14: Filtering + New APIs](https://blog.vulcanjs.org/vulcan-js-1-14-filtering-new-apis-fc8efc0027dd)
